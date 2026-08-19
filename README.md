@@ -50,4 +50,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0511-game-play-analysis-i](https://github.com/Anusha-web143/LeetCode/tree/master/0511-game-play-analysis-i) |
 | [0607-sales-person](https://github.com/Anusha-web143/LeetCode/tree/master/0607-sales-person) |
+| [1757-recyclable-and-low-fat-products](https://github.com/Anusha-web143/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
