@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anusha-web143/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Anusha-web143/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Anusha-web143/LeetCode/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/Anusha-web143/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anusha-web143/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Anusha-web143/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Anusha-web143/LeetCode/tree/master/0015-3sum) |
 | [0283-move-zeroes](https://github.com/Anusha-web143/LeetCode/tree/master/0283-move-zeroes) |
 ## Database
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/Anusha-web143/LeetCode/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/Anusha-web143/LeetCode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Anusha-web143/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Anusha-web143/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
