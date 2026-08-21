@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Anusha-web143/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Anusha-web143/LeetCode/tree/master/0015-3sum) |
 | [0283-move-zeroes](https://github.com/Anusha-web143/LeetCode/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/Anusha-web143/LeetCode/tree/master/0344-reverse-string) |
 ## Database
 |  |
 | ------- |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anusha-web143/LeetCode/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Anusha-web143/LeetCode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
