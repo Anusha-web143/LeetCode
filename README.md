@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Anusha-web143/LeetCode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Anusha-web143/LeetCode/tree/master/0268-missing-number) |
+| [0771-jewels-and-stones](https://github.com/Anusha-web143/LeetCode/tree/master/0771-jewels-and-stones) |
 ## Math
 |  |
 | ------- |
@@ -74,4 +75,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Anusha-web143/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Anusha-web143/LeetCode/tree/master/0392-is-subsequence) |
 | [0709-to-lower-case](https://github.com/Anusha-web143/LeetCode/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/Anusha-web143/LeetCode/tree/master/0771-jewels-and-stones) |
 <!---LeetCode Topics End-->
