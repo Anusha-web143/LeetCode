@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/Anusha-web143/LeetCode/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/Anusha-web143/LeetCode/tree/master/0607-sales-person) |
 | [1148-article-views-i](https://github.com/Anusha-web143/LeetCode/tree/master/1148-article-views-i) |
+| [1527-patients-with-a-condition](https://github.com/Anusha-web143/LeetCode/tree/master/1527-patients-with-a-condition) |
 | [1683-invalid-tweets](https://github.com/Anusha-web143/LeetCode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Anusha-web143/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Greedy
