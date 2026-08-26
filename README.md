@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anusha-web143/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Anusha-web143/LeetCode/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/Anusha-web143/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Anusha-web143/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Anusha-web143/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Anusha-web143/LeetCode/tree/master/0392-is-subsequence) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Anusha-web143/LeetCode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/Anusha-web143/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Anusha-web143/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anusha-web143/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Anusha-web143/LeetCode/tree/master/0392-is-subsequence) |
