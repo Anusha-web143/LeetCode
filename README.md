@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Anusha-web143/LeetCode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Anusha-web143/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Anusha-web143/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Anusha-web143/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,11 +36,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Anusha-web143/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Anusha-web143/LeetCode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Anusha-web143/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Anusha-web143/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Anusha-web143/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Anusha-web143/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Anusha-web143/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Anusha-web143/LeetCode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Anusha-web143/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Anusha-web143/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Anusha-web143/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Anusha-web143/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Anusha-web143/LeetCode/tree/master/0392-is-subsequence) |
 ## Database
@@ -100,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Anusha-web143/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Anusha-web143/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Anusha-web143/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
