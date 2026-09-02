@@ -128,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Anusha-web143/LeetCode/tree/master/0048-rotate-image) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Anusha-web143/LeetCode/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Anusha-web143/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
