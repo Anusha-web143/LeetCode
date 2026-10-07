@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Anusha-web143/LeetCode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Anusha-web143/LeetCode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/Anusha-web143/LeetCode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anusha-web143/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/Anusha-web143/LeetCode/tree/master/0771-jewels-and-stones) |
 ## Math
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Anusha-web143/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Anusha-web143/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Anusha-web143/LeetCode/tree/master/0125-valid-palindrome) |
+| [0290-word-pattern](https://github.com/Anusha-web143/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Anusha-web143/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anusha-web143/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Anusha-web143/LeetCode/tree/master/0392-is-subsequence) |
