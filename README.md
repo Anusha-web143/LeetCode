@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Anusha-web143/LeetCode/tree/master/0392-is-subsequence) |
 | [0709-to-lower-case](https://github.com/Anusha-web143/LeetCode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Anusha-web143/LeetCode/tree/master/0771-jewels-and-stones) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Anusha-web143/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Queue
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anusha-web143/LeetCode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Anusha-web143/LeetCode/tree/master/0155-min-stack) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Anusha-web143/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
 | ------- |
