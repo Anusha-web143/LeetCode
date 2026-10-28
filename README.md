@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Anusha-web143/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Anusha-web143/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anusha-web143/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0682-baseball-game](https://github.com/Anusha-web143/LeetCode/tree/master/0682-baseball-game) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Anusha-web143/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Anusha-web143/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anusha-web143/LeetCode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Anusha-web143/LeetCode/tree/master/0155-min-stack) |
+| [0682-baseball-game](https://github.com/Anusha-web143/LeetCode/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Anusha-web143/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anusha-web143/LeetCode/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Anusha-web143/LeetCode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
