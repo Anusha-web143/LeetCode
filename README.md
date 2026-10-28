@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Anusha-web143/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Anusha-web143/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Anusha-web143/LeetCode/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/Anusha-web143/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Database
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Anusha-web143/LeetCode/tree/master/0392-is-subsequence) |
 | [0709-to-lower-case](https://github.com/Anusha-web143/LeetCode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Anusha-web143/LeetCode/tree/master/0771-jewels-and-stones) |
+| [0844-backspace-string-compare](https://github.com/Anusha-web143/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Anusha-web143/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Queue
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Anusha-web143/LeetCode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Anusha-web143/LeetCode/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/Anusha-web143/LeetCode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Anusha-web143/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Anusha-web143/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
@@ -155,4 +158,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Anusha-web143/LeetCode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Anusha-web143/LeetCode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
